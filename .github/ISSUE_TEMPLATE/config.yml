@@ -1,5 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Política de segurança
-    url: https://github.com/Mosimann-adv/tarrafa_scraper/security/policy
-    about: Não publique vulnerabilidades exploráveis nem dados sensíveis em issues.
